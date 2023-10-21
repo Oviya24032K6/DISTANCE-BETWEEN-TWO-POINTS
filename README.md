@@ -32,7 +32,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![output](image.png)
+![OUTPUT](image.png)
 
 ### RESULT:
 Thus the python program for caluculating the distance between two points executed succesfully
