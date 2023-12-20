@@ -29,10 +29,9 @@ d=math.sqrt(((x2-x1)**2+(y2-y1)**2))
 print("{:.2f}".format(d))
 ```
 
-
-
 ### OUTPUT:
-![OUTPUT](image.png)
+![OUTPUT](https://github.com/Oviya24032K6/DISTANCE-BETWEEN-TWO-POINTS/assets/147139999/66a0ac57-1db9-464e-b73e-bad3c1353608)
+
 
 ### RESULT:
 Thus the python program for caluculating the distance between two points executed succesfully
